@@ -1,0 +1,31 @@
+body{
+  background-color: #111 !important;
+  color: antiquewhite !important;
+  overflow-x: hidden;
+}
+
+header{
+  background-color: rgb(3, 180, 121);
+  padding: 15px 0;
+}
+
+.note_main{
+  width: 600px;
+  margin: 0 auto;
+}
+
+.note_card{
+  box-shadow: 5px 5px 15px 0px rgba(0,0,0,0.69);
+  width: 100%;
+}
+
+textarea{
+  resize: none !important;
+}
+.view_card{
+  padding: 12px;
+  background-color: antiquewhite;
+  color: black;
+  border-radius: 10px;
+  font-family: cursive;
+}
